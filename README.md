@@ -22,7 +22,7 @@ Sample output with `MeetLann` dialogue tree:
 2. Place `ExtractDialogueTree.ps1` inside the folder
 3. Go to your game files: `Pathfinder Second Adventure`/`Wrath_Data`/`Streaming_Assets`/`Localization` and copy the `enGB.json` file into your workspace folder
 4. Go back to your game files and in the root folder (Pathfinder Second Adventure), copy `blueprints.zip` into a different folder (NOT the workspace folder) and unzip it. This’ll take a while.
-5. Inside the blueprints folder, go to: `World`/`Dialogs`. Copy everything inside into your workspace folder. All the files and folders.
+5. Inside the blueprints folder, go to: `World`/`Dialogs`. Copy everything inside - all the files and folders - into your workspace folder.
 
 ### Use
 
