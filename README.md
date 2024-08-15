@@ -3,7 +3,9 @@
 - Parses dialogue or book events per scene in more or less sequential order
 - Includes certain conditions/reactivity with race, class, deity, mythic path, romance states, passive/active skill checks, etc.
 
-![Pasted image 20240815093652.png]
+Sample output with `MeetLann` dialogue tree:
+
+![](https://github.com/tencurse/WOTR-Dialogue-Parser/blob/main/Pasted%20image%2020240815093652.png)
 
 ## Requirements
 
