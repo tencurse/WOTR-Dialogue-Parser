@@ -54,7 +54,7 @@ Sample output with `MeetLann` dialogue tree:
 - It doesn’t have a full list of the etudes/conditions (like quest markers/companion etudes) required for certain scenes.
 - It’s a very convoluted process due to this being mostly a personal project… I’m looking into parsing all the dialogue at once and uploading a repository of it somewhere but for now you’re gonna have to parse it yourself
 - This script has only been tested for Pathfinder: Wrath of the Righteous on Windows 10/11, and even then, only for select dialogue scenes and book events. Not sure if it’ll work with other Owlcat games.
-- If a scene has many branching points, the resulting file might not make a lot of sense, lol. An example of this is the Queen's confrontation before Act 4, which has a lot of conditions and branches.
+- If a scene has many branching points, the resulting file might not make a lot of sense, lol. An example of this is the Queen’s confrontation before Act 4, which has a lot of conditions and branches.
 
 ## Troubleshooting / Feedback
 
