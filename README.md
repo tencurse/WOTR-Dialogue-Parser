@@ -12,6 +12,7 @@ Sample output with `MeetLann` dialogue tree:
 1. Patience
 2. Visual Studio Code or any other code editor
 3. basic PowerShell knowledge
+4. the game files
 
 ## Instructions
 
